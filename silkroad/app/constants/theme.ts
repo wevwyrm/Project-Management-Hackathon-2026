@@ -1,0 +1,12 @@
+/**
+ * Below are the colors that are used in the app. The colors are defined in the light and dark mode.
+ * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
+ */
+
+
+// green 06D6A0
+// blue 1B9AAA
+// pink EF476F
+// orange FFC43D
+// off white F8FFE5
+// dark blue 073B4C
